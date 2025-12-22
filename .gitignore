@@ -1,5 +1,5 @@
 *.pyc
-*.ods
+*.ods*
 *.csv
 *.json
 *.pdf
